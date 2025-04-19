@@ -1,0 +1,9 @@
+total 112
+drwxr-xr-x@  8 gurpreetsingh  staff    256 Apr  1 20:32 .
+drwxr-xr-x+ 78 gurpreetsingh  staff   2496 Apr  2 18:11 ..
+-rw-r--r--@  1 gurpreetsingh  staff     12 Apr  1 20:28 hello.txt
+-rw-r--r--@  1 gurpreetsingh  staff    260 Apr  1 20:08 list.txt
+-rw-r--r--@  1 gurpreetsingh  staff      0 Apr  2 18:14 out.txt
+-rwxr-xr-x@  1 gurpreetsingh  staff  34728 Apr  1 20:25 shell
+-rw-r--r--@  1 gurpreetsingh  staff   5778 Apr  1 20:57 shell.c
+-rw-r--r--@  1 gurpreetsingh  staff     22 Apr  1 20:32 test.txt

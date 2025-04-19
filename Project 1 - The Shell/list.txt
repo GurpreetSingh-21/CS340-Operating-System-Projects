@@ -1,0 +1,5 @@
+total 88
+-rw-r--r--@ 1 gurpreetsingh  staff      0 Apr  1 20:08 list.txt
+-rw-r--r--@ 1 gurpreetsingh  staff   2737 Apr  1 20:08 out.txt
+-rwxr-xr-x@ 1 gurpreetsingh  staff  34088 Apr  1 19:58 shell
+-rw-r--r--@ 1 gurpreetsingh  staff   2737 Apr  1 20:08 shell.c
